@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>   <pb n="248" facs="248.jpg"/>   <div type="capitulo" n="44">
+      
+        
+            <p>Esta nación tiene mucha provisión de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/631">trigo turco (maíz)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/633"><hi rend="italic">mandeochade</hi> (mandioca)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/639"><hi rend="italic">mandepoere</hi></term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/638"><hi rend="italic">mandeos propys</hi></term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/634"><hi rend="italic">padades</hi> (batatas)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/698"><hi rend="italic">mannduiss</hi> (maní)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/700"><hi rend="italic">bachakhue</hi></term> y otras raíces más, que son aparentes para servir de comida. <hi rend="italic">Iten</hi> más tienen <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">venados</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/644">ovejas de Indias (guanacos)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/32">avestruces</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/748"><hi rend="italic">ennten</hi> (antas)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/658">gansos</term>, y muchas otras aves. También los bosques están llenos de miel, de la que se hace vino y lo demás que les hace falta; cuanto más adentro se busca en la tierra, tanto más <note ana="Fértil, abundante, copioso de frutos">feraz</note> se la encuentra. Item año redondo cosechan en el campo trigo turco (maíz) y las demás plantas ya citadas. Estas ovejas, de las que tienen mansas y ariscas, las usan como nosotros aquí á los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/559">rocines</term> para los cargar y montar; yo mismo también una vez en el viaje anduve más de 40 <hi rend="italic">millas</hi> (leguas) montado en una oveja de estas, á saber cuando estuve enfermo de un pie; en el <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/431">Perú</placeName> las cargan con mercaderías como si fuesen <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/1067">acémilas</term>.</p>
+            <p>Estos <hi rend="italic">Mayeaiess</hi> (Mbayá) son altos, gallardos y</p>
+         
+      </div>
+    </body></text></TEI>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Viaje al Río de la Plata (1534-1554)</title>
+       <author>Ulrich Schmidel</author>
+       <editor n="1">Romina De León</editor>
+       <editor n="2">Gabriel Calarco</editor>
+       <editor n="3">Laura Volkind</editor>
+         <editor n="4">Gimena del Rio Riande</editor>
+     </titleStmt>
+     <publicationStmt>
+       <publisher>HD LAB</publisher>
+       <availability>
+       <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+       </availability>
+     </publicationStmt>
+     <sourceDesc> 
+       <bibl>
+       <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+       <date>1903</date>
+       </bibl>
+     </sourceDesc>
+   </fileDesc>
+ </teiHeader>
+ <text><body> <pb n="260" facs="260.jpg"/><div type="capitulo" n="47">
+     
+       <head>CAPÍTULO XLVII</head>
+       <head type="titulocapitulo">DE LOS MAYGENNOS Y KARCKHOKÍES Y DE LAS SALINAS</head>
+         <p>Después de esto marchamos nosotros á los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/908"><hi rend="italic">Maygennos</hi></term> y llegamos á su pueblo; que se dispusieron á la defensa y no quisieron ser nuestros amigos. El pueblo de ellos se hallaba sobre un <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/1120">cerrillo</placeName> que estaba rodeado por cerco de espinas, muy tupido y ancho y tan alto que se necesitaba un hombre con un <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/1002">espadín</term> para que alcance á la cima. Eso que nosotros los Cristianos junto con nuestros <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/629">Caríos</term> atacamos á este pueblo por los dos costados, ellos, los <hi rend="italic">Maygennos</hi>, nos mataron 12 Cristianos junto con algunos otros de los Caríos nuestros que ellos voltearon en la escaramuza, antes que nosotros ganamos el pueblo; cuando ya vieron que nosotros estábamos bien adentro de su pueblo, ellos mismos lo incendiaron y á toda prisa dispararon; allí tuvieron que dejar á algunos, como es de suponer.</p>
+         <p>Después que ya todo esto se había concluido, á los 3 días, los Caríos se mandaron mudar con tanto sigilo que nosotros no nos apercibimos de ello, y alzaron sus <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/433">arcos</term> y <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/434">flechas</term>, marcharon unas 2 ó 3 <hi rend="italic">millas</hi> (leguas) de nuestro real, alcanzaron á los</p>
+            
+     </div>
+   </body></text></TEI>

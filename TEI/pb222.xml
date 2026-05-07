@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>    <pb n="222" facs="222.jpg"/><div type="capitulo" n="37">
+    
+       
+<p>4 argollas de plata, que se ponen en los brazos; pero las <hi rend="italic">plenschen</hi> (planchas) las usan los Indios en la frente como adorno, así como en esta tierra <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/419">(Alemania)</placeName> los grandes señores usan ricas cadenas en los cuellos. En cambio de estas cosas nuestro capitán dio á este Indio principal hacha, cuchillo, rosario, tijera y otras baratijas más, de las que se fabrican en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/340"><note ana="Núremberg">Niremberga</note></placeName>; de buena gana les hubiésemos sacado más cosas, pero no nos atrevimos, porque nosotros los Cristianos éramos muy pocos, y por lo mismo había que desconfiar; los Indios eran muchos, al grado que yo jamás en todas las <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/324">Indias</placeName> he visto pueblo más grande ni más gente junta, y eso que he andado la ceca y la meca. Esta peste de los Indios, por lo que tantos morían de hambre, fué, á no dudarlo, nuestra salvación, porque de lo contrario lo probable es que los Cristianos no hubiesen salido de allí con vida.</p>
+</div>
+<div type="capitulo" n="38">
+ <head>CAPÍTULO XXXVIII</head>
+        <head type="titulocapitulo">REGRESO DE HERNANDO DE RIBERA. SUBLEVACIÓN DE LA GENTE</head>
+        <p>Después de esto contramarchamos á los antedichos <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/851"><hi rend="italic">Syeborís</hi></term> y <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/825"><hi rend="italic">Scherues</hi> (Xarayes)</term>. Nosotros los Cristianos también estábamos mal provistos de ví-</p>
+      
+      </div>
+    </body></text></TEI>

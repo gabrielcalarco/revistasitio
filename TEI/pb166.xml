@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace>
+          <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>   
+          <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>
+
+        <pb n="166" facs="166.jpg"/>
+<div type="capitulo" n="17">
+          <p>porque jamás habían visto otra igual. Esta <note ana="La descripción que realiza Schmidel permite suponer que se trata de una anaconda amarilla o curiyú.">serpiente</note>, según nos contaron, los tenía mal á los Indios; porque cuando se bañaban en el agua siempre solía estar oculta en el agua, envolvía á los Indios con la cola y zambulliendo con ellos se los tragaba; así que muchas veces Indios desaparecían sin que se supiese la suerte que habían corrido. Yo mismo medí esta serpiente con carne y todo, así que me doy cabal cuenta de como era de larga y gruesa. Esta serpiente después los Indios la despedazaron, la asaron, la hicieron hervir y se la comieron en sus casas.</p>
+
+     </div>     
+<div type="capitulo" n="18">
+        <head>CAPÍTULO XVIII</head>
+        <head type="titulocapitulo">LLEGAN Á LOS ZECHENNAUS SALUAISCHCO Y MEPENES</head>
+        
+        <p>De allí navegamos el <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/406"><hi rend="italic">Paranaw</hi></placeName> arriba y después de 4 días de viaje llegamos á una nación que se llama <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/672"><hi rend="italic">Zechennaus Saluaischco</hi> (Chaná-Salvajes)</term>, [son] gente petiza y gruesa, no tienen más de comer que pescado y miel. Esta gente, tanto hombres como mujeres, mozos como viejos, andan en cueros vivos, así como fueron lanzados al mundo,</p>
+      </div>
+    </body></text></TEI>

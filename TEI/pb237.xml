@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body> <pb n="237" facs="237.jpg"/> <div type="capitulo" n="42">
+        
+          
+            <p>ayuda contra ellos, con la que pudimos más que ellos. Con apuro fabricamos unas grandes <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/712"><hi rend="italic">rodelas</hi></term> ó <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/936"><hi rend="italic">paveses</hi></term> con cueros de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">venado</term> ó de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/748"><hi rend="italic">annda</hi> (anta)</term>: esta es una gran bestia, como mula de cuenta, es obscura, los pies como de vaca, pero en todo lo demás se parece á un burro; son buenos para comer, y los hay en gran cantidad en la tierra; el cuero es de medio dedo de grueso. Repartimos nosotros los tales paveses. Paveses como éstos dimos á cada un Indio de los <hi rend="italic">Geberas</hi> (Yapirú), y también una buena <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/1060">hacha</term> á cada otro Indio; para cada dos Indios se dispuso también un arcabucero; paveses como éstos se habían preparado en número de 400.</p>
+            <p>En seguida volvimos á atacar el pueblo enemigo por tres puntos, entre las 2 y 3 del día; y antes que pasasen 3 horas ya estaban las 3 <hi rend="italic">pallasaitenn</hi> (palizadas) del todo destruídas y franqueadas; después de esto llegamos con toda la gente al pueblo y dimos muerte á mucha gente, hombres, mujeres y niños, pero los más de la gente se escaparon de allí, porque huyeron á otro pueblo que estaba á 20 <hi rend="italic">millas</hi> (leguas) de este pueblo <hi rend="italic">Froendere</hi> (Frontera) y se llamaba <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/187"><hi rend="italic">Kharaieba</hi></term>. A este pueblo también lo habían fortificado ellos en toda regla y á</p>
+      </div>
+    </body></text></TEI>

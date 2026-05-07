@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+         <editor n="3">Gabriel Calarco</editor>
+          <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body> <pb n="179" facs="179.jpg"/>   <div type="capitulo" n="23">
+        
+        
+        
+        <p><hi rend="italic">Pienbass</hi> (Payaguá) tenían comida, y qué era lo que no les gustaba; <hi rend="italic">iten</hi>, la clase de gente que era y cuáles sus defectos; así contestaron ellos, los <hi rend="italic">Piembas</hi> no tienen más comida que pescado y carne, <hi rend="italic">iten</hi><term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/472"><hi rend="italic"> cuerno de cabra</hi>, ó <hi rend="italic">algarabo</hi> (algarroba) ó pan de San Juan</term>; de estos <hi rend="italic">cuernos de cabra</hi> (vainas de algarroba) hacen ellos miel que comen con el pescado; también de esto hacen vino, y es dulce como la hidromel en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/419">Alemania</placeName>.</p>
+        
+        <p>Y luego que nuestro capitán <hi rend="italic">Jann Eyolias</hi> supo todo esto de los Caríos les mandó que cargasen 5 navíos con comida de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/631"><hi rend="italic">trigo turco</hi> (maíz)</term> y de lo demás que había en el país, lo que se había de hacer plazo de 2 meses, porque en este tiempo también él y los suyos se prepararían para el viaje, y visitarían en primer lugar una nación llamada <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/821"><hi rend="italic">Charchareis</hi> (¿Jarayes?)</term>, la primera después de los <hi rend="italic">Paimbas</hi> (Payaguá).</p>
+
+        <p>Entonces se obligaron los Caríos á prestarse siempre y ser obedientes y á cumplir en todo lo que el capitán mandase. Así consiguió también nuestro capitán de los marineros que acabasen de aprestar los navíos para realizar este viaje.</p>
+        <p>Cuando todo aquello quedó arreglado y lis-
+        </p>
+      </div>
+    </body></text></TEI>
