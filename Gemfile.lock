@@ -99,7 +99,7 @@ DEPENDENCIES
   bigdecimal
   bundler
   drb
-  jekyll (~> 3.10.0)
+  jekyll (~> 3.2)
   jekyll-athena!
   kramdown-parser-gfm
   mutex_m
