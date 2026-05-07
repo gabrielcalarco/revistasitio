@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+          <editor n="2">Laura Volkind</editor>
+            <editor n="3">Gabriel Calarco</editor>
+              <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>  <pb n="175" facs="175.jpg"/><div type="capitulo" n="21">
+
+
+      
+        <p>tercera vez que se mantuviesen de paz [porque deseábamos ser sus amigos]; mas ellos no quisieron hacer caso, porque no habían experimentado lo que eran las rodelas y los arcabuces nuestros. Y cuando ya nos pusimos cerca de ellos les hicimos un descarga con nuestras bocas de fuego; eso que la oyeron y vieron que su gente caía al suelo, y, que no asomaban ni <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/993">jara</term> ni flecha alguna y sólo sí un agujero en el cuerpo, se llenaron de espanto, les entró miedo y al punto huyeron en pelotón y se caían unos sobre otros como perros; y tanto fué el apuro de meterse en su pueblo que como unos 200 Caríos cayeron ellos mismos en sus ya dichos hoyos durante el descalabro.</p>
+        
+        <p>Después de esto nosotros los Cristianos nos acercamos al pueblo de ellos y lo atacamos, mas ellos se defendieron lo mejor que pudieron, hasta el tercer día. Como ya no podían resistir más y temían por las mujeres é hijos, que también tenían consigo en la ciudad, nos pidieron misericordia prometiendo complacernos en todo con tal que les perdonásemos las vidas. También le trajeron á nuestro capitán <hi rend="italic">Jann Eyollass</hi> 6 mujeres, de las que la mayor tendría unos 18 años; <hi rend="italic">iten</hi> le <hi rend="italic">presentaron</hi> también 8 <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">venados</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">ciervos</term> y otras salvajinas más. De ahí se empeñaron con nosotros para</p>
+
+
+      </div>
+    </body></text></TEI>

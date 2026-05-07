@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Viaje al Río de la Plata (1534-1554)</title>
+       <author>Ulrich Schmidel</author>
+      <editor n="1">Romina De León</editor>
+       <editor n="2">Gabriel Calarco</editor>
+       <editor n="3">Laura Volkind</editor>
+         <editor n="4">Gimena del Rio Riande</editor>
+     </titleStmt>
+     <publicationStmt>
+       <publisher>HD LAB</publisher>
+       <availability>
+       <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+       </availability>
+     </publicationStmt>
+     <sourceDesc> 
+       <bibl>
+       <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+       <date>1903</date>
+       </bibl>
+     </sourceDesc>
+   </fileDesc>
+ </teiHeader>
+ <text><body>  <pb n="271" facs="271.jpg"/>  <div type="capitulo" n="49">
+    
+       <head>CAPÍTULO XLIX</head>
+       <head type="titulocapitulo">DE LA TIERRA DE LOS MARCHKHAYSÍES. REGRESO AL RÍO DE LA PLATA. ALZAMIENTO DE DIEGO DE ABREU.</head>
+            <p>De tal modo se había manejado y tanto había hecho nuestro capitán allí con la gente, que en razón de víveres ya no podíamos permanecer más entre los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/971"><hi rend="italic">Marchkhaysies</hi></term>; porque los víveres que teníamos no alcanzaban para un mes; mas si nosotros hubiésemos sabido, que se nos iba á <hi rend="italic">proveer</hi> ó nombrar un [nuevo] <hi rend="italic">gubernator</hi>, no nos hubiésemos movido de allí, hubiésemos hallado harta comida y <hi rend="italic">remedi</hi> (remedio) (á la cosa); pero en el mundo todo es picardía. Después marchamos nosotros de regreso á los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/902"><hi rend="italic">Harchkokoes</hi> (Corocotoquis)</term>. Debía yo haberos contado también, á saber, que los dichos <hi rend="italic">Machkaysis</hi> tienen una tierra tan fértil que no se había visto otra igual hasta entonces; por ejemplo, cuando un Indio sale al monte ó selva, y en el primer árbol que allí
+         </p>            
+     </div>
+   </body></text></TEI>

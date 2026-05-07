@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>    <pb n="251" facs="251.jpg"/>   <div type="capitulo" n="45">
+        
+         
+            <p>su pueblo, mas no encontramos nada allí, ni mujeres ni hijos.</p>
+            <p>Entonces mandó nuestro capitán y tomó unos 150 arcabuceros y 2.500 Indios <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/629">Caríos</term> y marchó en pos de los <hi rend="italic">Mayaiedess</hi> (Mbayá) 3 días seguidos y 2 noches [á todo apurar], así que no descansábamos nosotros sino sólo para comer á medio día y dormir 4 ó 5 horas cada noche.</p>
+            <p>Y al tercer día dimos con los <hi rend="italic">Mayaeides</hi> (Mbayá) todos juntos, hombres, mujeres y niños en un bosque; mas no eran ellos los <hi rend="italic">Maiaies</hi> (Mbayá) que buscábamos, sino sus amigos. Ni cuidado que se les daba á ellos de nuestra llegada allí. Así tienen que pagar justos por pecadores; porque cuando nosotros llegamos á los <hi rend="italic">Mayaiess</hi> (Mbayá) estos, matamos y apresamos hombres, mujeres y niños en número como de 3 mil personas, y si hubiese sido de día, así como fué de noche, no se escapa uno de ellos; porque había mucha gente junta en un cerro, en que había un bosque muy grande. Yo saqué de esta escaramuza más de 19 personas, hombres y mujeres, que no eran viejas; porque siempre me ha gustado más la gente moza que la vieja; también la parte que me tocó de las mantas de los Indios y otras cosas más. Después de esto nos volvimos á nuestro real, allí nos quedamos 8 días, porque había</p>
+                   
+      </div>
+    </body></text></TEI>

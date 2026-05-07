@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+         <editor n="3">Gabriel Calarco</editor>
+          <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>   <pb n="180" facs="180.jpg"/><div type="capitulo" n="23">
+        
+                
+     
+        
+        <p>to, y cargado el bastimento en los navíos, hizo nuestro capitán que se reuniese toda la gente y de los 400 hombres separó 300 bien armados, y á los 100 los dejó en la antedicha ciudad <hi rend="italic">Vordelesso</hi> (Fortaleza), esto es, <hi rend="italic">Nostra Singnora de Sunssión</hi>, donde en aquel tiempo vivian los susodichos Caríos.</p>
+        
+        <p>De ahí navegamos aguas arriba y encontramos á cada 5 <hi rend="italic">millas</hi> (leguas) de camino un pueblo de los dichos Caríos, asentados sobre el <hi rend="italic">agua</hi> (rio) <hi rend="italic">Peroboe</hi>; [estos] nos trajeron á los Cristianos lo necesario y comida de pescado y carne, gallinas, gansos, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/644">ovejas de los Indios</term> [y] <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/32">avestruces</term>. Mas cuando al fin llegamos al pueblo de los Caríos que se llama <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/453"><hi rend="italic">Weybingon</hi> (Guayviaño)</placeName> que cae á 80 <hi rend="italic">millas</hi> (leguas) de la ciudad <hi rend="italic">Nostra Singnora de Sunsión</hi>, allí tomamos nosotros de estos Caríos comida y todo lo demás que nos hacia falta y de ellos pudimos conseguir.</p>
+      </div>
+    </body></text></TEI>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>    <pb n="253" facs="253.jpg"/> <div type="capitulo" n="45">
+           
+            <p>allí no hallamos gente alguna, pero de comer bastante; están también sometidos á los <hi rend="italic">Mayaies</hi> (Mbayá).</p>
+            <p>De allí marchamos nosotros 6 días enteros sin encontrar gente por el camino, y al 7.° día llegamos á una nación llamada de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/891"><hi rend="italic">Payhonos</hi></term> donde había mucha Indiada reunida. El caudillo de ellos salió á recibirnos de paz con mucha gente. Este le rogó á nuestro capitán que no entrásemos á su pueblo, sino que nos quedásemos allí afuera en el mismo lugar; mas nuestro capitán no quiso consentir en nada de eso, sino que se metió derecho en el pueblo de ellos, quieran que nó; allí hubimos lo muy bastante que comer de carne, y <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/650">gallinas</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/658">gansos</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/556">venados</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/644">ovejas</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/32">avestruces</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/687">papagayos</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/649">conejillos</term>. Mas ahora dejo yo de lado lo de trigo turco (maíz) y otras raíces y frutas [sin mencionar], de lo que hay una superabundancia en la tierra; pero agua no hay mucha, casi nada de plata y oro; así que de eso nada preguntamos tampoco, porque las otras naciones que más adelante estaban por esto mismo no huyesen. Nos quedamos 3 días enteros entre estos <hi rend="italic">Payhonas</hi>; allí se impuso nuestro capitán por ellos de la manera de tierra que era; y de los <hi rend="italic">Thohanas</hi> hasta ellos hay 24 <hi rend="italic">millas</hi> (leguas) de camino; y de allí salimos y llevamos un <note ana="Lengua o lenguarace fueron los intermediarios de la comunicación entre españoles y nativos">«lengua»</note> de los <hi rend="italic">Payha-</hi></p>            
+      </div>
+    </body></text></TEI>

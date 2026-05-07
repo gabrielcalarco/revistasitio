@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Gabriel Calarco</editor>
+        <editor n="3">Laura Volkind</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>     <pb n="189" facs="189.jpg"/>  <div type="capitulo" n="27">
+        
+     
+ 
+        <p>huida de los <hi rend="italic">Thyembus</hi>]; mas no halló qué hacerles y dejó <hi rend="italic">bastimento</hi> y <hi rend="italic">provisiones</hi> en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/423"><hi rend="italic">Corporis Christi</hi></placeName>, también 20 hombres de los nuestros con un capitán <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/112"><hi rend="italic">Anthoni Manthossa</hi></persName> y mandó, so pena de la vida, que no se fiase por nada de los Indios, sino que de día y de noche se asegurase bien con guardias, y si sucediere que llegasen los Indios y quisiesen volver á ser amigos que los tratasen bien y les mostrasen la vieja amistad; pero que todo fuese sin descuidarse, mirando bien que no les pasase ningún perjuicio ni á él ni á los Cristianos.</p>
+        <p>Después de esto nuestro capitán general <hi rend="italic">Marthin Doménigo Eyolla</hi> (Irala) se llevó consigo de allí las (3) personas, como <hi rend="italic">causa efficiens</hi> de la matanza, á saber, el <hi rend="italic">Francisco Reyss</hi>, el sacerdote, <hi rend="italic">Jann Pabón</hi> y <hi rend="italic">Jann Eronandus</hi>, que era el secretario; y cuando estaban por partir y hacerse á la vela, se presentó allí un principal [de] los Tyembus, que se llamaba <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/116"><hi rend="italic">Zeiche Legemi</hi></persName>, gran amigo que fué de los Cristianos, pero que á pesar de esto tenía que hacerles el gusto á los Indios por causa de su mujer é hijos y amigos, y dijo á nuestro capitán <hi rend="italic">Marthin</hi>
+      </p>
+      </div>
+    </body></text></TEI>

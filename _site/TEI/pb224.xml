@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body>   <pb n="224" facs="224.jpg"/>    <div type="capitulo" n="38">
+   
+        <p>se moviese de los navíos, y se vino á vernos, él mismo <hi rend="italic">in personâ</hi>, é hizo prender á nuestro capitán <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/160"><hi rend="italic">Ernando Rieffira</hi> (Hernando de Ribera)</persName>, y nos quitó [á los soldados cuanto] habíamos traído de tierra adentro, y por último y para colmo de todo, quería hacer ahorcar en un árbol á nuestro capitán <hi rend="italic">Ernando Rieffere</hi>. Mas nosotros, que aun estábamos en el navío <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/437"><hi rend="italic">bergentin</hi> (bergantín)</term> cuando supimos de la tal cosa, armamos un gran alboroto, juntándonos con otros buenos amigos, con que contábamos en tierra, contra nuestro capitán dicho general <hi rend="italic">Alberniso</hi> (Alvar Núñez) <hi rend="italic">Capessa de Bacha</hi>, es decir, para obligarlo á que soltase y dejase libre á nuestro capitán <hi rend="italic">Ernando Rieffere</hi>, como también que nos devolviese íntegramente lo nuestro que nos había robado y quitado, y que si nó, otro tanto le haríamos á él.</p>
+        <p>Cuando él, <hi rend="italic">Aluiso Capessa de Bacha</hi> se apercibió del alboroto nuestro, y se dió cuenta de nuestras malas intenciones, tuvo á bien, porque ello no pasase de ahí, poner en libertad á nuestro capitán, nos devolvió también todo lo que nos había quitado y nos habló con buenas palabras, y sólo así quedamos satisfechos. Mas como le fué después bien se enteró él: va en seguida.</p>
+    
+      </div>
+    </body></text></TEI>

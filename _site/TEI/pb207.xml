@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viaje al Río de la Plata (1534-1554)</title>
+        <author>Ulrich Schmidel</author>
+        <editor n="1">Romina De León</editor>
+        <editor n="2">Laura Volkind</editor>
+        <editor n="3">Gabriel Calarco</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>HD LAB</publisher>
+        <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc> 
+        <bibl>
+        <pubPlace>Buenos Aires, Alsina 500</pubPlace> <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+        <date>1903</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text><body> <pb n="207" facs="207.jpg"/>   <div type="capitulo" n="34">
+      
+        
+        <p>y después llegamos á una nación llamada <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/814"><hi rend="italic">Baschereposs</hi> (Guaxarapos)</term> tienen pescado y carne; es una gran nación y se extiende por unas 100 <hi>millas</hi> (leguas) y tienen hartas <hi rend="italic">khannean</hi> (canoas), y baste con lo dicho de esto; sus mujeres se tapan las vergüenzas, no quisieron saber nada con nosotros, sino que huyeron de allí. De estos llegamos á otra nación, llamada de los <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/834"><hi rend="italic">Sueruekuessis</hi> (Sacocíes)</term>, donde en aquella ocasión estuvieron los 3 antedichos navíos; está á las 90 <hi>millas</hi> (leguas) de los <hi rend="italic">Basherepass</hi> (Guaxarapos); nos recibieron muy de á buenas, cada cual tiene casa sola para sí con su mujer é hijos. Los hombres tienen una rodelita de madera como ficha de damero colgada en el lóbulo de la oreja; las mujeres tienen una piedra gris de cristal que les cuelga de los labios, es del largo y grueso de un dedo, son hermosas y andan en cueros vivos como nacieron. <hi rend="italic">Item</hi> tienen algo de <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/631">trigo turco (maíz)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/633"><hi rend="italic">manndeoch</hi> (mandioca ó fariña)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/698"><hi rend="italic">manduiss</hi> (maní)</term>, <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/634"><hi rend="italic">padades</hi> (batatas)</term>, pescado y carne en abundancia; es una gran nación; nuestro capitán les hizo preguntar de una nación llamada
+        </p>
+        </div>
+    </body></text></TEI>

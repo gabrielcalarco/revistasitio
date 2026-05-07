@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+   <fileDesc>
+     <titleStmt>
+       <title>Viaje al Río de la Plata (1534-1554)</title>
+       <author>Ulrich Schmidel</author>
+       <editor n="1">Romina De León</editor>
+       <editor n="2">Gabriel Calarco</editor>
+           <editor n="3">Laura Volkind</editor>
+        <editor n="4">Gimena del Rio Riande</editor>
+     </titleStmt>
+     <publicationStmt>
+       <publisher>HD LAB</publisher>
+       <availability>
+       <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Compartir Igual 4.0 Internacional</licence>
+       </availability>
+     </publicationStmt>
+     <sourceDesc> 
+       <bibl>
+       <pubPlace>Buenos Aires, Alsina 500</pubPlace> 
+       <publisher>Cabaut y Cía. Editores - Librería del Colegio</publisher>
+       <date>1903</date>
+       </bibl>
+     </sourceDesc>
+   </fileDesc>
+ </teiHeader>
+ <text><body>  <pb n="279" facs="279.jpg"/> <div type="capitulo" n="51">
+
+             
+             <p>necesario para un viaje tan lejos; porque cada uno tiene que calcular lo que puede precisar para el camino.</p>
+            <p>Y 8 días antes que yo debía partir, llegó uno del <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/213"><hi rend="italic">Presiel</hi> (Brasil)</placeName>; trajo noticia, de cómo precisamente debió haber llegado allí un navío de <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/283"><hi rend="italic">Liesebonna</hi> (Lisboa)</placeName> en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/354">Portugal</placeName>, el cual pertenecía al muy honorable y discreto señor <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/282"><hi rend="italic">Johann von Hielst</hi></persName> allá en <hi rend="italic">Lisabona</hi> (Lisboa), un comprador ó un factor del <persName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/281"><hi rend="italic">Erasmus Schezen</hi></persName> en <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/14"><hi rend="italic">Amberes</hi></placeName>.</p>
+            <p>Y cuando yo hube averiguado cuanto tenía que decirme me puse en marcha en nombre de Dios el Todopoderoso el año 1552 á 26 de Diciembre y día de San Esteban, y abandoné el <hi rend="italic">Río delle Platta</hi>, partiendo de la ciudad <placeName ref="https://terminologias.filo.uba.ar/vocabs/1006/term/443"><hi rend="italic">Nostra Singnora de Sunssionn</hi></placeName> con 20 Indios y 2 <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/519"><hi rend="italic">cananen</hi> (canoas)</term>, y primero llegamos á las 26 <hi rend="italic">millas</hi> (leguas) á un pueblo llamado <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/525"><hi rend="italic">Juegrichsaibe</hi> (Yeruquihaba)</term>; allá en ese pueblo se me juntaron 4 compañeros, 2 Españoles y 2 Portugueses, los mismos que no traían licencia del capitán. De allí marchamos juntos y llegamos como á las 15 <hi rend="italic">millas</hi> (leguas) á un pueblo grande llamado <term ref="https://terminologias.filo.uba.ar/vocabs/1006/term/518"><hi rend="italic">Barey</hi></term>; de allí marchamos 4 días de viaje, 16 <hi rend="italic">millas</hi> (leguas), hasta</p>         
+               
+     </div>
+   </body></text></TEI>
