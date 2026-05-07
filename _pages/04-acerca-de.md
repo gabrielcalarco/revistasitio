@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Recursos
-permalink: /recursos/
+title: Acerca de
+permalink: /acerca-de/
 type: extras
 ---
 
